@@ -1,0 +1,411 @@
+[{
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-10T20:36:21.149Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-10T20:44:03.73Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-13T21:15:05.23Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-13T21:20:24.266Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-13T21:35:19.225Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-15T23:51:13.908Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T17:55:18.051Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T17:57:41.895Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T17:58:07.294Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T17:58:23.544Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T17:58:49.778Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T17:59:33.996Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T17:59:44.195Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T17:59:52.754Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T18:00:00.057Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T18:01:26.674Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T18:24:02.557Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T18:54:11.702Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T19:34:24.984Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T19:34:32.413Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T19:34:40.431Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T19:35:11.773Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-16T22:42:49.272Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-17T14:54:08.125Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-18T06:06:53.035Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-18T15:39:34.657Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T00:15:24.02Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T00:15:29.003Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T00:15:55.043Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T00:16:14.333Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T00:23:41.061Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T00:28:47.156Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T00:28:58.441Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T00:56:10.059Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T00:56:21.571Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T01:06:12.28Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T04:15:49.491Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T04:15:55.197Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T04:25:24.974Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T04:25:29.272Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T04:26:34.311Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T04:27:28.931Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T04:28:27.841Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T04:32:11.486Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T04:35:43.701Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T04:44:00.518Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T05:59:49.623Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T05:59:52.672Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T06:11:00Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T06:19:08.681Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T06:19:21.012Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T06:28:00.771Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T14:45:43.893Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T15:07:26.063Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T15:25:26.908Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T15:49:31.788Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T15:49:41.205Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T18:53:37.591Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T19:25:09.586Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T19:25:12.748Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T19:49:04.166Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T22:14:27.559Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T22:14:36.832Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T22:14:56.163Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T22:15:08.352Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-19T22:37:22.319Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-20T15:32:23.776Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-20T16:20:47.164Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-20T20:13:29.53Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-20T20:13:37.249Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-20T20:13:47.315Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-20T20:14:10.08Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-20T20:15:26.715Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-20T20:15:34.974Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-20T20:16:42.084Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-20T20:17:05.83Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-20T20:17:34.075Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-20T20:17:38.588Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-20T20:17:46.821Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-24T16:52:28.382Z"
+}, {
+  "type": "enrollment",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-25T22:30:15.114Z"
+}, {
+  "type": "cancellation",
+  "provider": "tui",
+  "active": false,
+  "date": "2020-11-26T05:24:14.104Z"
+}]
