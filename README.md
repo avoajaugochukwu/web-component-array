@@ -1,4 +1,3 @@
-<em>Submission from Ugochukwu Avoaja</em>
 # Things to note
 
 ## Dependencies
